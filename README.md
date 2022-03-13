@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrés Fernando Jaramillo Avila.</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
-- 📊💻 I’m a Systems Engineer interested in Front-end web development
+- 💻 I’m a Systems Engineer interested in Front-end web development
 
 - 🌱 I’m currently learning **Angular**
 
