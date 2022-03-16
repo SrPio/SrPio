@@ -1,6 +1,8 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="50">, I'm Andrés Fernando Jaramillo Avila.</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/5wFHChzgBtfANDa76U/giphy.gif">
+
 - 💻 I’m a Systems Engineer interested in Front-end web development
 
 - 🌱 I’m currently learning **Angular**
