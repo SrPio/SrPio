@@ -11,6 +11,10 @@
 
 - ⚡ Fun fact **I like pizza.**
 
+- 🤝 I excel at teamwork and collaboration, ensuring projects run smoothly and efficiently.**
+
+- 🗣️ I have strong communication skills, allowing me to convey technical concepts clearly to non-technical stakeholders.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/andres-fernando-jaramillo-avila/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrés fernando jaramillo avila" height="30" width="40" /></a>
