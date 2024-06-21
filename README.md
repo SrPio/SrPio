@@ -11,9 +11,9 @@
 
 - ⚡ Fun fact **I like pizza.**
 
-- 🤝 I excel at teamwork and collaboration, ensuring projects run smoothly and efficiently.**
+- 🤝 I excel at **teamwork and collaboration**, ensuring projects run smoothly and efficiently.
 
-- 🗣️ I have strong communication skills, allowing me to convey technical concepts clearly to non-technical stakeholders.**
+- 🗣️ I have strong **communication skills**, allowing me to convey technical concepts clearly to non-technical stakeholders.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
